@@ -1,5 +1,10 @@
 # anitr-py
 
+Kodlama bilgim aşırı temel düzeyde ben bu projeyi yapacak ve devam ettirecek kadar python bilgisine sahip değilim.
+Bu proje readme'sinden lisansına kadar tamamen Qwen yapay zeka modeli tarafından [anitr-cli](https://github.com/axrona/anitr-cli)'nin kodlarından esinlenilerek yapılmıştır.
+Program ile ilgili bir sorununuz olursa muhtemelen yardımcı olamam ama bende gayet iyi çalışıyor
+
+
 Terminalde Türkçe altyazılı anime arama ve izleme aracı 🚀
 
 Bu uygulama, orijinal [anitr-cli](https://github.com/axrona/anitr-cli) uygulamasının sadece AnimeCix kaynağını kullanan Python sürümüdür.
